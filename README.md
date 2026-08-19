@@ -19,7 +19,7 @@ Over the next few decades, Eric worked for a variety of companies ranging from l
 
 ## ThinkersJournal
 
-Thinkers Journal Incorporated is a non-profit corporation founded by Eric Evans to provide tooling and services to enable thinkers (currently mainly programmers) everywhere.  The corporation owns ThinkersJournal.com (currently parked via DynaDot and unused) and Thinkers Journal Incorporated is building the software infrastructure from scratch to set up multi-cloud servers around the world to host ThinkersJournal's offerings on.  If you would like to know more, please see our [ThinkersJournal Facebook group](https://www.facebook.com/groups/390315422611197/) or ask [Eric directly on Facebook](https://www.facebook.com/CireSnave).
+Thinkers Journal Incorporated is a non-profit corporation founded by Eric Evans to provide tooling and services to enable thinkers (currently mainly programmers) everywhere.  The corporation owns [ThinkersJournal.com](https://www.thinkersjournal.com) and Thinkers Journal Incorporated is building the software infrastructure from scratch to set up multi-cloud servers around the world to host ThinkersJournal's offerings on.  If you would like to know more, please see our [ThinkersJournal Facebook group](https://www.facebook.com/groups/390315422611197/) or ask [Eric directly on Facebook](https://www.facebook.com/CireSnave).
 
 ## Evans Laboratories Incorporated
 
