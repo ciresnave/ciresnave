@@ -20,8 +20,8 @@
     "approved_by": "CireSnave",
     "approvals": [
       {
-        "said_on": "PENDING-board-item-from-PM",
-        "quote": "PENDING: CireSnave's verbatim approval goes here; DO NOT MERGE UNTIL REPLACED",
+        "said_on": "2026-10-09",
+        "quote": "Decision 164: Approved and merged.",
         "approving": "Side-by-side trial on the disposable lanes restarttest and restarttest2 only: if the screen contains verbatim \"WARNING: Loading development channels\" and \"I am using this for local development\", and Channels is exactly \"server:claude-peers, server:synapse\" (comma and one space, as captured from the real dialog on 2026-10-09), press 1 then Enter; expires 2026-11-09."
       }
     ]
