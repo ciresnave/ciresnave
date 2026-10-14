@@ -1,0 +1,27 @@
+{
+  "id": "trust-own-project-folders",
+  "match": {
+    "text_anchors": [
+      "Quick safety check: Is this a project you created or one you trust?",
+      "Yes, I trust this folder",
+      "C:\\Projects\\"
+    ]
+  },
+  "action": "\u001b[B\r",
+  "scope": {
+    "roles": [
+      "*"
+    ]
+  },
+  "provenance": {
+    "approved_by": "CireSnave",
+    "approvals": [
+      {
+        "said_on": "2026-10-14",
+        "quote": "I always trust our own projects because the only two people working on them are you and I.",
+        "approving": "This handler's exact spec as the PM presented it: on a lane lane-restart just relaunched, if the screen contains verbatim \"Quick safety check: Is this a project you created or one you trust?\", \"Yes, I trust this folder\" and a path beginning \"C:\\Projects\\\", press Down then Enter (selecting \"Yes, I trust this folder\"; the default is \"No, exit\"). Applies to folders under C:\\Projects only; any other path means no answer. First seen on the unisql relaunch at 2026-10-14T16:04:30Z."
+      }
+    ]
+  },
+  "expires_at": "2027-04-14T00:00:00Z"
+}
