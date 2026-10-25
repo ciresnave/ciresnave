@@ -1,0 +1,29 @@
+{
+  "id": "claude-peers-synapse-dev-channels-fmp-rs",
+  "match": {
+    "text_anchors": [
+      "WARNING: Loading development channels",
+      "I am using this for local development"
+    ],
+    "fields": {
+      "Channels": "server:claude-peers, server:synapse"
+    }
+  },
+  "action": "1\r",
+  "scope": {
+    "roles": [
+      "fmp-rs"
+    ]
+  },
+  "provenance": {
+    "approved_by": "CireSnave",
+    "approvals": [
+      {
+        "said_on": "2026-10-25",
+        "quote": "Decision 299: I've okayed the startup dialogs for fmp-rs's lane twice already.  It's approved.  Has that lane been added to our approvals so I don't need to keep doing that?",
+        "approving": "The exact startup dialog `lane-restart host` met when it relaunched the `fmp-rs` lane at 2026-10-25T21:24Z: the screen contains verbatim \"WARNING: Loading development channels\" and \"I am using this for local development\", and Channels is exactly \"server:claude-peers, server:synapse\"; press 1 then Enter. Scope: the `fmp-rs` role only (the existing two-channel approval claude-peers-synapse-dev-channels-pilot covers only synapse, agentlife and overmind, which is why this dialog was unmatched). No secret is requested by this dialog. Expires 2027-04-25. Anything else means no answer."
+      }
+    ]
+  },
+  "expires_at": "2027-04-25T00:00:00Z"
+}
